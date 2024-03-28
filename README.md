@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elizlatkova
 - 👀 I’m interested in acrobatics, dance, math
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning JS Advanced and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
